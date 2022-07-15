@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PiotrCharkot
+- 👀 I’m interested in programming languages, fpv racing drones, chess
+- 🌱 I’m currently learning JavaScript, React Native and C#
+- 📫 How to reach me piotr.charkot@gmail.com, +47 91 700 799
